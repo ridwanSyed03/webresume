@@ -1,2 +1,2 @@
 # webresume
-my resume from complete web development course
+my resume 
